@@ -1,2 +1,2 @@
-# GScript_JS
+#JS et al.
 script miscellaneous
